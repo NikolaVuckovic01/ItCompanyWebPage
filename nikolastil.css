@@ -1,0 +1,183 @@
+ul.navbar-nav li a {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+.card-title {
+    font-size: 30px;
+    
+}
+.card-text {
+    font-size: 20px;
+}
+.py-4 {
+    border: 2px solid rgb(251, 189, 113);
+    border-radius: 20px;
+    
+}
+.btn-lg{
+    color: rgb(33 , 37, 41);
+    border: 1px solid rgb(251, 189, 113);
+}
+.btn-lg:hover {
+    background-color: rgb(251, 189, 113);
+}
+.carousel-inner  {
+    border: 2px solid rgb(251, 189, 113);
+    border-radius: 20px;
+
+}
+body {
+    background: url("../img/201.png");
+}
+#prva {
+    background: url("../img/201.png");
+}
+.carousel-inner p {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+   
+
+}
+.card-titleK {
+    color: rgb(33, 37, 41);
+    font-size: 25px;
+}
+.card {
+    border: 3px solid rgb(251, 189, 113);
+    
+}
+.btn-primary {
+    color: rgb(33 , 37, 41);
+    border: 1px solid rgb(251, 189, 113);
+    background-color: rgb(255, 240, 223);
+}
+.btn-primary:hover {
+    background-color: rgb(251, 189, 113);
+    border: 1px solid rgb(33, 37, 41);
+    color: rgb(33 , 37, 41);
+}
+
+
+
+.cardH {
+    border: 2px solid rgb(251, 189, 113);
+    
+
+}
+
+footer {
+    padding: 2rem;
+    background-color: rgb(230, 230, 230);
+}
+footer a {
+    color: rgb(33, 37, 41);
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: color 0.2s ease-in;
+    letter-spacing: 0.2rem;
+
+}
+footer a:hover {
+    color: rgb(251, 189, 113);
+}
+
+footer p {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+#horizontalna img {
+    
+    margin: 10px;
+   
+    margin-right: 15px;
+    border: 2px solid rgb(251, 189, 113);
+   
+
+   
+}
+#horizontalna2 img {
+    margin: 10px;
+   
+    margin-right: 80px;
+    
+    border: 2px solid rgb(251, 189, 113);
+
+}
+#horizontalna3 img {
+    margin: 10px;
+   
+    margin-right: 80px;
+    
+    border: 2px solid rgb(251, 189, 113);
+
+}  
+.col-12 p {
+    font-size: 20px;
+}
+.form-control {
+    border: 2px solid rgb(251, 189, 113);
+}
+#contact-submit-btn:hover
+{
+    background-color: rgb(251, 189, 113);
+    border: 1px solid rgb(33, 37, 41);
+}
+#contact-submit-btn {
+    border: 2px solid rgb(251, 189, 113);
+    background-color: white;
+}
+.accordion-item {
+    border: 2px solid rgb(251, 189, 113);
+}
+.accordion-header {
+    color: rgb(33 , 37, 41);
+}
+.accordion-button {
+    color: rgb(33 , 37, 41);
+}
+#headingOne {
+    color: rgb(33 , 37, 41);
+}
+.accordion-button:not(.collapsed)
+{
+    color: rgb(33 , 37, 41);
+    background-color: rgb(255, 240, 223);
+    box-shadow: inset 0 -1px 0 rgba(255, 0, 0, 0.125);
+}
+.dropdown-item:hover {
+    background-color: rgb(251, 189, 113);
+}
+.form-control {
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.list-unstyled li a {
+    color: rgb(33 , 37, 41);
+    text-decoration: none;
+}
+
+
+.item {
+    border: 2px solid rgb(251, 189, 113);
+    padding: 0px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   
+    
+}
+.photos {
+    padding-bottom: 20px;
+}
+.img-fluid {
+    
+    border: 1px solid rgb(251, 189, 113);
+}
+.card-title a {
+    text-decoration: none;
+}
+.col-md-4 {
+    margin-top: 20px;
+}
+.col-6 {
+    margin-top: 20px;
+}
